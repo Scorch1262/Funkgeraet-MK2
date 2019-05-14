@@ -1,7 +1,5 @@
 # Funkgeraet-MK2
 
-Datenblatt
-
 Status:				Unfertig			
 Bezeichnung:			Funkgerät MK2
 Auftragsnummer:			
